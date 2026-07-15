@@ -1,2 +1,28 @@
-# f9d31b4e-music-production-daw-bookmar
-Professional music production browser extension — without the professional price tag.  Privacy-first: all processing stays local, no data sent to third-party servers. Under 1MB. Zero performance impact on browser speed.  ## What's Included  - Music Production &amp; Daw Bookmark Manager And Knowledge Base — fully configured and ready to use - One-click
+# Music Production & DAW Bookmark Manager and Knowledge Base Chrome Extension
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJe00j4eP7Eo3lm0VecZM2t)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJe00j4eP7Eo3lm0VecZM2t)
+
